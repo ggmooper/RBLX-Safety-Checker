@@ -1,0 +1,25 @@
+2025-02-25 14:57:11.666215 - 
+🔍 Checking for matches for username: BullC0C
+2025-02-25 14:57:12.011924 - ✅ Found User ID: 8063134675 for username: BullC0C
+2025-02-25 14:57:12.012463 - 🔎 Checking friends for user: BullC0C (ID: 8063134675)
+2025-02-25 14:57:12.357469 - ✅ Found 20 friends for user ID: 8063134675
+2025-02-25 14:57:12.358970 - ✅ Extracted 487 user IDs from C:\Users\david\Downloads\Safety-Checker-main\Safety-Checker-main\404accounts.txt
+2025-02-25 14:57:12.548721 - ✅ Extracted 240342 user IDs from C:\Users\david\Downloads\Safety-Checker-main\Safety-Checker-main\friends.txt
+2025-02-25 14:57:12.550440 - 🔄 Checking 20 friends for matches...
+2025-02-25 14:57:12.550758 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-02-25 14:57:12.551068 - https://www.roblox.com/users/3483387812/profile
+2025-02-25 14:57:12.551316 - https://www.roblox.com/users/945282644/profile
+2025-02-25 14:58:00.953871 - 
+🔍 Checking for matches for username: mrproctor2
+2025-02-25 14:58:01.300356 - ✅ Found User ID: 8067522039 for username: mrproctor2
+2025-02-25 14:58:01.300932 - 🔎 Checking friends for user: mrproctor2 (ID: 8067522039)
+2025-02-25 14:58:01.701019 - ✅ Found 13 friends for user ID: 8067522039
+2025-02-25 14:58:01.702668 - ✅ Extracted 487 user IDs from C:\Users\david\Downloads\Safety-Checker-main\Safety-Checker-main\404accounts.txt
+2025-02-25 14:58:01.881609 - ✅ Extracted 240342 user IDs from C:\Users\david\Downloads\Safety-Checker-main\Safety-Checker-main\friends.txt
+2025-02-25 14:58:01.881960 - 🔄 Checking 13 friends for matches...
+2025-02-25 14:58:01.882272 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-02-25 14:58:01.882569 - https://www.roblox.com/users/4764072907/profile
+2025-02-25 14:58:01.882791 - https://www.roblox.com/users/4848840640/profile
+2025-02-25 14:58:01.883073 - https://www.roblox.com/users/247210723/profile
