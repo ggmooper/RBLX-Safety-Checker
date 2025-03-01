@@ -96,6 +96,14 @@
 2025-02-25 15:12:55.607015 - https://www.roblox.com/users/4848840640/profile
 2025-02-25 15:12:55.607231 - https://www.roblox.com/users/964900053/profile
 2025-02-25 19:00:42.934450 - 
+🔍 Checking for matches for username: xXSH7DOWLO5DXx
+2025-02-25 19:00:43.370689 - ✅ Found User ID: 1116634468 for username: xXSH7DOWLO5DXx
+2025-02-25 19:00:43.371451 - 🔎 Checking friends for user: xXSH7DOWLO5DXx (ID: 1116634468)
+2025-02-25 19:00:43.752907 - ✅ Found 178 friends for user ID: 1116634468
+2025-02-25 19:00:43.765397 - ✅ Extracted 487 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-02-25 19:00:43.962145 - ✅ Extracted 240342 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-02-25 19:00:43.962581 - 🔄 Checking 178 friends for matches...
+2025-02-25 19:00:43.962943 - 
 ⚠️ Friends of known ERP account(s) found in friends:
 2025-02-25 19:00:43.963222 - https://www.roblox.com/users/3150158769/profile
 2025-02-25 19:00:43.963449 - https://www.roblox.com/users/2457677131/profile
@@ -210,3 +218,143 @@
 ⚠️ Friends of known ERP account(s) found in friends:
 2025-02-25 20:03:28.104781 - https://www.roblox.com/users/4848840640/profile
 2025-02-25 20:03:28.105034 - https://www.roblox.com/users/1572914900/profile
+2025-03-01 14:57:31.235622 - 
+🔍 Checking for matches for username: gotastudiogame7
+2025-03-01 14:57:31.608687 - ✅ Found User ID: 8078460883 for username: gotastudiogame7
+2025-03-01 14:57:31.609399 - 🔎 Checking friends for user: gotastudiogame7 (ID: 8078460883)
+2025-03-01 14:57:31.957187 - ✅ Found 29 friends for user ID: 8078460883
+2025-03-01 14:57:31.992567 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 14:57:32.166014 - ✅ Extracted 240344 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 14:57:32.166345 - 🔄 Checking 29 friends for matches...
+2025-03-01 14:57:32.166628 - 
+✅ No suspicious accounts found.
+2025-03-01 14:57:58.420165 - 
+🔍 Checking for matches for username: fmboyaltacc
+2025-03-01 14:57:58.764003 - ✅ Found User ID: 8006410026 for username: fmboyaltacc
+2025-03-01 14:57:58.764601 - 🔎 Checking friends for user: fmboyaltacc (ID: 8006410026)
+2025-03-01 14:57:59.145723 - ✅ Found 64 friends for user ID: 8006410026
+2025-03-01 14:57:59.147241 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 14:57:59.319850 - ✅ Extracted 240344 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 14:57:59.320213 - 🔄 Checking 64 friends for matches...
+2025-03-01 14:57:59.320508 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 14:57:59.320778 - https://www.roblox.com/users/3949370161/profile
+2025-03-01 14:57:59.321021 - https://www.roblox.com/users/5647634787/profile
+2025-03-01 14:57:59.321255 - https://www.roblox.com/users/1511185290/profile
+2025-03-01 14:57:59.321499 - https://www.roblox.com/users/101096538/profile
+2025-03-01 14:57:59.321720 - https://www.roblox.com/users/4723844117/profile
+2025-03-01 14:57:59.321933 - https://www.roblox.com/users/2370820966/profile
+2025-03-01 14:57:59.322146 - https://www.roblox.com/users/7306431218/profile
+2025-03-01 14:57:59.322358 - https://www.roblox.com/users/6070152334/profile
+2025-03-01 14:57:59.322572 - https://www.roblox.com/users/3441233662/profile
+2025-03-01 14:58:26.979116 - 
+🔍 Checking for matches for username: aytherboy
+2025-03-01 14:58:27.325560 - ✅ Found User ID: 3949370161 for username: aytherboy
+2025-03-01 14:58:27.326096 - 🔎 Checking friends for user: aytherboy (ID: 3949370161)
+2025-03-01 14:58:27.708676 - ✅ Found 200 friends for user ID: 3949370161
+2025-03-01 14:58:27.710327 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 14:58:27.878806 - ✅ Extracted 240344 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 14:58:27.879142 - 🔄 Checking 200 friends for matches...
+2025-03-01 14:58:27.879467 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 14:58:27.879721 - https://www.roblox.com/users/3462303277/profile
+2025-03-01 14:58:27.879958 - https://www.roblox.com/users/5647634787/profile
+2025-03-01 14:58:27.880174 - https://www.roblox.com/users/1769533800/profile
+2025-03-01 14:58:27.880383 - https://www.roblox.com/users/5074144417/profile
+2025-03-01 14:58:27.880591 - https://www.roblox.com/users/2707977293/profile
+2025-03-01 14:58:27.880802 - https://www.roblox.com/users/2474507589/profile
+2025-03-01 14:58:27.881011 - https://www.roblox.com/users/226647528/profile
+2025-03-01 14:58:27.881234 - https://www.roblox.com/users/22627300/profile
+2025-03-01 14:58:27.881439 - https://www.roblox.com/users/554791977/profile
+2025-03-01 14:58:27.881645 - https://www.roblox.com/users/4146453916/profile
+2025-03-01 14:58:27.881849 - https://www.roblox.com/users/6152952175/profile
+2025-03-01 14:58:27.882083 - https://www.roblox.com/users/5424062215/profile
+2025-03-01 14:58:27.882303 - https://www.roblox.com/users/7095686403/profile
+2025-03-01 14:58:27.882512 - https://www.roblox.com/users/1068476909/profile
+2025-03-01 14:58:27.882715 - https://www.roblox.com/users/3151339683/profile
+2025-03-01 14:58:27.882924 - https://www.roblox.com/users/3434330542/profile
+2025-03-01 14:58:27.883126 - https://www.roblox.com/users/2995094701/profile
+2025-03-01 14:58:27.883329 - https://www.roblox.com/users/2487855139/profile
+2025-03-01 14:58:27.885175 - https://www.roblox.com/users/1344459596/profile
+2025-03-01 14:58:27.885444 - https://www.roblox.com/users/7349614624/profile
+2025-03-01 14:58:27.885685 - https://www.roblox.com/users/4968946760/profile
+2025-03-01 15:00:46.512958 - 
+🔍 Checking for matches for username: Yung_homewrecker
+2025-03-01 15:00:46.862970 - ✅ Found User ID: 8071829260 for username: Yung_homewrecker
+2025-03-01 15:00:46.863499 - 🔎 Checking friends for user: Yung_homewrecker (ID: 8071829260)
+2025-03-01 15:00:47.214101 - ✅ Found 26 friends for user ID: 8071829260
+2025-03-01 15:00:47.224549 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 15:00:47.413773 - ✅ Extracted 240345 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 15:00:47.414130 - 🔄 Checking 26 friends for matches...
+2025-03-01 15:00:47.414450 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 15:00:47.414748 - https://www.roblox.com/users/3949370161/profile
+2025-03-01 15:00:47.415008 - https://www.roblox.com/users/3151339683/profile
+2025-03-01 15:04:11.933164 - 
+🔍 Checking for matches for username: ren_unkrblx
+2025-03-01 15:04:12.281985 - ✅ Found User ID: 7780811300 for username: ren_unkrblx
+2025-03-01 15:04:12.282544 - 🔎 Checking friends for user: ren_unkrblx (ID: 7780811300)
+2025-03-01 15:04:12.642407 - ✅ Found 180 friends for user ID: 7780811300
+2025-03-01 15:04:12.644356 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 15:04:12.829771 - ✅ Extracted 240345 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 15:04:12.830105 - 🔄 Checking 180 friends for matches...
+2025-03-01 15:04:12.830499 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 15:04:12.830819 - https://www.roblox.com/users/332645147/profile
+2025-03-01 15:04:12.831057 - https://www.roblox.com/users/7297156302/profile
+2025-03-01 15:04:12.831294 - https://www.roblox.com/users/4774648849/profile
+2025-03-01 15:04:12.831521 - https://www.roblox.com/users/4724973965/profile
+2025-03-01 15:04:12.831744 - https://www.roblox.com/users/5798972363/profile
+2025-03-01 15:04:12.831963 - https://www.roblox.com/users/308470557/profile
+2025-03-01 15:04:12.832180 - https://www.roblox.com/users/4312896147/profile
+2025-03-01 15:04:12.832419 - https://www.roblox.com/users/3039513409/profile
+2025-03-01 15:04:12.832710 - https://www.roblox.com/users/1528372353/profile
+2025-03-01 15:04:12.832984 - https://www.roblox.com/users/3316276063/profile
+2025-03-01 15:04:12.833244 - https://www.roblox.com/users/4986039385/profile
+2025-03-01 15:04:12.833470 - https://www.roblox.com/users/2479831130/profile
+2025-03-01 15:04:12.833693 - https://www.roblox.com/users/3513955918/profile
+2025-03-01 15:04:18.909206 - 
+🔍 Checking for matches for username: BlackDih69
+2025-03-01 15:04:19.254868 - ✅ Found User ID: 8010414898 for username: BlackDih69
+2025-03-01 15:04:19.255368 - 🔎 Checking friends for user: BlackDih69 (ID: 8010414898)
+2025-03-01 15:04:19.598120 - ✅ Found 6 friends for user ID: 8010414898
+2025-03-01 15:04:19.600482 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 15:04:19.784028 - ✅ Extracted 240345 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 15:04:19.784343 - 🔄 Checking 6 friends for matches...
+2025-03-01 15:04:19.784606 - 
+✅ No suspicious accounts found.
+2025-03-01 15:04:28.284969 - 
+🔍 Checking for matches for username: TheGiantHorse2
+2025-03-01 15:04:28.629733 - ✅ Found User ID: 8083697504 for username: TheGiantHorse2
+2025-03-01 15:04:28.630348 - 🔎 Checking friends for user: TheGiantHorse2 (ID: 8083697504)
+2025-03-01 15:04:28.973335 - ✅ Found 18 friends for user ID: 8083697504
+2025-03-01 15:04:28.974939 - ✅ Extracted 496 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 15:04:29.152826 - ✅ Extracted 240345 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 15:04:29.153186 - 🔄 Checking 18 friends for matches...
+2025-03-01 15:04:29.153502 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 15:04:29.153779 - https://www.roblox.com/users/664348693/profile
+2025-03-01 15:43:21.796879 - 
+🔍 Checking for matches for username: Akdjwowjcne
+2025-03-01 15:43:22.150012 - ✅ Found User ID: 8030011670 for username: Akdjwowjcne
+2025-03-01 15:43:22.150653 - 🔎 Checking friends for user: Akdjwowjcne (ID: 8030011670)
+2025-03-01 15:43:22.504814 - ✅ Found 55 friends for user ID: 8030011670
+2025-03-01 15:43:22.506450 - ✅ Extracted 499 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 15:43:22.681024 - ✅ Extracted 240351 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 15:43:22.681328 - 🔄 Checking 55 friends for matches...
+2025-03-01 15:43:22.681603 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 15:43:22.681849 - https://www.roblox.com/users/1344459596/profile
+2025-03-01 15:43:22.682098 - https://www.roblox.com/users/1687947868/profile
+2025-03-01 15:43:33.221043 - 
+🔍 Checking for matches for username: Akdjwowjcne
+2025-03-01 15:43:33.570532 - ✅ Found User ID: 8030011670 for username: Akdjwowjcne
+2025-03-01 15:43:33.571166 - 🔎 Checking friends for user: Akdjwowjcne (ID: 8030011670)
+2025-03-01 15:43:33.967094 - ✅ Found 55 friends for user ID: 8030011670
+2025-03-01 15:43:33.969235 - ✅ Extracted 499 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\404accounts.txt
+2025-03-01 15:43:34.148862 - ✅ Extracted 240351 user IDs from C:\Users\david\Downloads\RBLX-Safety-Checker-main\RBLX-Safety-Checker-main\friends.txt
+2025-03-01 15:43:34.149264 - 🔄 Checking 55 friends for matches...
+2025-03-01 15:43:34.149607 - 
+⚠️ Friends of known ERP account(s) found in friends:
+2025-03-01 15:43:34.149938 - https://www.roblox.com/users/1344459596/profile
+2025-03-01 15:43:34.150256 - https://www.roblox.com/users/1687947868/profile
